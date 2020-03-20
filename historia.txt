@@ -7,3 +7,7 @@ Tierra de lago y volcanes.
 Mañana a trabajar
 
 Estamos en la mera cepa de GIT
+
+Probaremos los comando de correccion de commit.
+
+Esto es un error.
