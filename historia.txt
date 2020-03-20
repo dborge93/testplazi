@@ -5,3 +5,5 @@ Tengo la edad de 27 y vivo en managua, Nicaragua.
 Tierra de lago y volcanes.
 
 Mañana a trabajar
+
+Estamos en la mera cepa de GIT
