@@ -8,4 +8,6 @@ Mañana a trabajar
 
 Estamos en la mera cepa de GIT
 
-Comentario de ERROR
+Probaremos los comando de correccion de commit.
+
+Esto es un error.ls
