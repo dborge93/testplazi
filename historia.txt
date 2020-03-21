@@ -11,3 +11,5 @@ Estamos en la mera cepa de GIT
 Comentario de ERROR
 
 prubas_1
+
+Usando gitignore
